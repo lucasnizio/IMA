@@ -1,0 +1,3 @@
+id_gta,dt_emissao_gta,id_produtor_origem,id_produtor_destino,id_tipo_finalidade_gta,municipio_origem,estado_origem,municipio_destino,estado_destino,qt_animais,data_seconds,repeticao_origem,flag_binaria,qt_animais_norm,data_seconds_norm,cluster
+1573048,2013-11-19 10:57:35.549,74724.0,447467,2,3134202,MG,3134202,MG,120,1384858655,1,1,0.967479674796748,0.11808091601652171,-1
+7343553,2018-07-18 14:51:54.423,400309.0,447467,2,3134400,MG,3134202,MG,124,1531925514,0,0,1.0000000000000002,0.48819551197765554,-1

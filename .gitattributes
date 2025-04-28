@@ -1,0 +1,2 @@
+Deteccao_Fraude/bd/bd_gta_combinado_com_distancias.csv filter=lfs diff=lfs merge=lfs -text
+Deteccao_Fraude/src/Agrupamento.ipynb filter=lfs diff=lfs merge=lfs -text
