@@ -1,2 +1,3 @@
-id_gta,dt_emissao_gta,id_produtor_origem,id_produtor_destino,id_tipo_finalidade_gta,municipio_origem,estado_origem,municipio_destino,estado_destino,qt_animais,data_seconds,repeticao_origem,flag_binaria,qt_animais_norm,data_seconds_norm,cluster
-4075630,2016-01-21 12:15:50.602,317262.0,54357,3,3129004,MG,3129004,MG,150,1453378550,1,1,0.9999999999999999,0.28743686709996163,-1
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a4f713c04defd346037fbc1d9fa12ebd72ed9be4770926620588cfa7fef7209
+size 378
