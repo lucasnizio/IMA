@@ -1,4 +1,7 @@
-Deteccao_Fraude/bd/bd_gta_combinado_com_distancias.csv filter=lfs diff=lfs merge=lfs -text
+Deteccao_Fraude/bd/gtas_com_distancias.csv filter=lfs diff=lfs merge=lfs -text
+Deteccao_Fraude/bd/matriz_distancias.csv filter=lfs diff=lfs merge=lfs -text
+Deteccao_Fraude/bd/bd_gta_dentro_mg202505091607.csv filter=lfs diff=lfs merge=lfs -text
+Deteccao_Fraude/bd/bd_gta_dentro_mg_faixa_etaria202505091602.csv filter=lfs diff=lfs merge=lfs -text
 Deteccao_Fraude/src/Agrupamento.ipynb filter=lfs diff=lfs merge=lfs -text
 Deteccao_Fraude/src/Analise_dos_dados.ipynb filter=lfs diff=lfs merge=lfs -text
 
