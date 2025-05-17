@@ -1,5 +1,15 @@
 dados_por_produtor
 Reunião_Projeto.txt
 /Deteccao_Fraude/bd/*
-!/Deteccao_Fraude/bd/bd_gta_combinado_com_distancias.csv
+!/Deteccao_Fraude/bd/gtas_com_distancias.csv
+!/Deteccao_Fraude/bd/bd_gta_oe202505091618.csv
+!/Deteccao_Fraude/bd/bd_gta_oe_faixa_etaria202505091630.csv
+!/Deteccao_Fraude/bd/bd_gta_dentro_mg_faixa_etaria202505091602.csv
+!/Deteccao_Fraude/bd/bd_gta_dentro_mg202505091607.csv
+!/Deteccao_Fraude/bd/matriz_distancias.csv
 /Deteccao_Fraude/src/clusters/*.npy
+/Deteccao_Fraude/src/clusters/*best.CSV
+src/clusters/*.npy
+Agrupamento.ipynb
+Analise_dos_dados.ipynb
+Montagem_db.ipynb
