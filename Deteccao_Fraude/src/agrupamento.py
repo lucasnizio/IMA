@@ -36,7 +36,6 @@ def preprocess_data(pid, df_all):
                               .transform(lambda x: x.duplicated().astype(int))
     f["flag_binaria"] = np.where(f["repeticao_origem"] > 0, 1, 0)
 
-    # ATENÇÃO: linhas sem distância_km devem ser removidas antes de escalar
     f = f.dropna(subset=["distancia_km"])
 
     scaler = MinMaxScaler()
